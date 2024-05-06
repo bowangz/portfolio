@@ -429,7 +429,7 @@ body:not(.user-is-tabbing) a:focus {
 @media(max-width: 500px) {
     .header {
         background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/mobile.jpg')
+        url('./images/mobile.jpeg')
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
